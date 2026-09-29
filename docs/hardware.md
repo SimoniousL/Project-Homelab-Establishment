@@ -10,6 +10,8 @@
 
 ## Why a Dell Wyse 5070 for the server
 
+![Dell Wyse 5070](/home/simonioius/homelab-project/images/)
+
 Considerations:
 
 - Raspberry Pi 4: Would struggle with video transcoding, better suited for something lightweight project like Pi-hole later. Costs around the same as the Dell Wyse.
