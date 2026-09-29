@@ -10,7 +10,7 @@
 
 ## Why a Dell Wyse 5070 for the server
 
-![Dell Wyse 5070](/home/simonioius/homelab-project/images/)
+![Dell Wyse 5070](/home/simonioius/homelab-project/images/5070_450.jpg)
 
 Considerations:
 
